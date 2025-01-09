@@ -8,9 +8,9 @@ This repository showcases a collection of dynamic and visually compelling dashbo
 
 - Comprehensive data exploration through pivot tables and advanced charting.
 
--Insights derived from real-world datasets, including sales performance, e-commerce trends, and sports analytics.
+- Insights derived from real-world datasets, including sales performance, e-commerce trends, and sports analytics.
 
--Practical applications of data storytelling to support decision-making.
+- Practical applications of data storytelling to support decision-making.
 
 **Tools Used**- 
 
